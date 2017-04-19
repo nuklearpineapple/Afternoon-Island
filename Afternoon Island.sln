@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afternoon Island.Plugins", "Afternoon Island.Plugins.csproj", "{9F8D6AD7-23D7-40C6-32DF-83A9AFC63272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afternoon Island", "Afternoon Island.csproj", "{A7AE4363-E436-C93F-A4C2-4B61FFE6038E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afternoon Island.Editor.Plugins", "Afternoon Island.Editor.Plugins.csproj", "{7300A980-2CD3-DF47-9C3E-BA1503401D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8D6AD7-23D7-40C6-32DF-83A9AFC63272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8D6AD7-23D7-40C6-32DF-83A9AFC63272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8D6AD7-23D7-40C6-32DF-83A9AFC63272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8D6AD7-23D7-40C6-32DF-83A9AFC63272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AE4363-E436-C93F-A4C2-4B61FFE6038E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AE4363-E436-C93F-A4C2-4B61FFE6038E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AE4363-E436-C93F-A4C2-4B61FFE6038E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AE4363-E436-C93F-A4C2-4B61FFE6038E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7300A980-2CD3-DF47-9C3E-BA1503401D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7300A980-2CD3-DF47-9C3E-BA1503401D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7300A980-2CD3-DF47-9C3E-BA1503401D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7300A980-2CD3-DF47-9C3E-BA1503401D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
